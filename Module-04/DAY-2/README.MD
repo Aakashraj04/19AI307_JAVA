@@ -17,7 +17,9 @@ To demonstrate inheritance, data input, grade calculation, and display in Java.
 Program to implement a Inheritance using Java
 Developed by: Aakashraj M
 RegisterNumber: 212222100002
-
+*/
+```
+```c
 import java.util.Scanner;
 
 class Student {
@@ -59,8 +61,6 @@ public class Grade extends Student {
         
     }
 }
-
-*/
 ```
 ## OUTPUT:
 
